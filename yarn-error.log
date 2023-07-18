@@ -1,0 +1,29 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Imran-pc\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add webpack webpack-cli
+
+PATH: 
+  C:/Ruby32-x64/lib/ruby/gems/3.2.0/bin;C:\Python311\Scripts\;C:\Python311\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Ruby32-x64\bin;C:\Users\Imran-pc\AppData\Local\Microsoft\WindowsApps;C:\Users\Imran-pc\AppData\Local\GitHubDesktop\bin;C:\Users\Imran-pc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Imran-pc\AppData\Roaming\npm;C:\Users\Imran-pc\AppData\Roaming\Composer\vendor\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Imran-pc\AppData\Local\Yarn\Cache\v6\npm-webpack-5.88.1-21eba01e81bd5edff1968aea726e2fbfd557d3f8-integrity\node_modules\webpack\.yarn-tarball.tgz'
+
+npm manifest: 
+  {
+    "name": "app",
+    "private": "true"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
